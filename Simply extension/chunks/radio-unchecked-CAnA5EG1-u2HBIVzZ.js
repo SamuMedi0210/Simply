@@ -1,0 +1,1 @@
+import{o,c as r,a as n}from"./sidepanel-mXKxEenY.js";const c={xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24"};function t(s,e){return o(),r("svg",c,e[0]||(e[0]=[n("circle",{cx:"12",cy:"12",r:"11.5",fill:"none",stroke:"#B0B0B0"},null,-1)]))}const a={render:t};export{a as default,t as render};

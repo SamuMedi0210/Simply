@@ -1,0 +1,1 @@
+import{o,c as r,a as t}from"./sidepanel-mXKxEenY.js";const a={xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24"};function n(s,e){return o(),r("svg",a,e[0]||(e[0]=[t("path",{d:"M23.5 11v2H.5v-2zm0 8.794v2H.5v-2zm0-17.588v2H.5v-2z"},null,-1)]))}const c={render:n};export{c as default,n as render};
